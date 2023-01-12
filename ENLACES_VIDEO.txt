@@ -1,0 +1,14 @@
+Práctica 2: Tipología y ciclo de vida de los datos.
+Master en ciéncia de datos
+Universitat Oberta de Catalunya
+
+GRUPO: 
+Raúl Laborda Nicolás
+Felix Moisés Cordero Rangel
+
+Enlace a video Práctica 2. Tipologia y ciclo de vida de los datos.
+
+
+Enlace a github:
+
+https://github.com/Narolex/practica2_tipologia
