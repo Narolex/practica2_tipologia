@@ -17,4 +17,4 @@ El siguiente proyecto se basa en un procesamiento de un conjunto de datos acerca
   * `/dataset/heart.csv`: Datos empleados durante la práctica. No se han añadido datos de resultados puesto que todo se ha desarrollado sobre notebook y no se ha visto necesario.
 
 ## Vídeo de presentación
-Enlace al vídeo de presentación de la práctica: [https://drive.google.com/drive/folders/1qR86c_AFlnMlBZ7qzoTJj33feom3R3TM?usp=share_link](https://drive.google.com/drive/folders/1qR86c_AFlnMlBZ7qzoTJj33feom3R3TM?usp=share_link)
+Enlace al vídeo de presentación de la práctica: [https://drive.google.com/drive/folders/1nl5WQX9nDJxl8mPrI9L9UMwlnQizDpGd?usp=share_link](https://drive.google.com/drive/folders/1nl5WQX9nDJxl8mPrI9L9UMwlnQizDpGd?usp=share_link)
